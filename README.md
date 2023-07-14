@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohsenebrahimyir
+- 👋 Hi, I’m Mohsen Ebrahimi -> @mohsenebrahimyir
 - 👀 I’m interested in Data Analysis and Science
 - 🌱 I’m currently learning Neuroscience
 
